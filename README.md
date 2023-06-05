@@ -78,7 +78,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Neumann, L and Sbert, M and Gooch, B and Purgathofer, W and others*
 
-3. **Algorithmic Inferencing of Aesthetics and Emotion in Natural Images: An Exposition.** ICIP, 2008. [paper]()
+3. **Algorithmic Inferencing of Aesthetics and Emotion in Natural Images: An Exposition.** ICIP, 2008. [paper](https://ieeexplore.ieee.org/document/4711702/)
 
     *Datta, Ritendra and Li, Jia and Wang, James Z.*
 
@@ -138,7 +138,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Zhang, Luming and Gao, Yue and Zimmermann, Roger and Tian, Qi and Li, Xuelong*
 
-18. **Rapid: Rating Pictorial Aesthetics Using Deep Learning.** ACM Multimedia, 2014. [paper](), [code](https://github.com/paramoecium/RAPID)
+18. **Rapid: Rating Pictorial Aesthetics Using Deep Learning.** ACM Multimedia, 2014. [paper](https://dl.acm.org/doi/10.1145/2647868.2654927), [code](https://github.com/paramoecium/RAPID)
 
     *Lu, Xin and Lin, Zhe and Jin, Hailin and Yang, Jianchao and Wang, James Z.*
 
