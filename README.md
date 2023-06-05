@@ -604,7 +604,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Ghosal, Koustav and Rana, Aakanksha and Smolic, Aljosa*
 
-6. **Eva: An Explainable Visual Aesthetics Dataset.** Joint Workshop on Aesthetic and Technical Quality Assessment of Multimedia and Media Analytics for Societal Trends, 2020. [journal](https://dl.acm.org/doi/10.1145/3423268.3423590), [code](https://github.com/kang-gnak/eva-dataset)
+6. **EVA: An Explainable Visual Aesthetics Dataset.** Joint Workshop on Aesthetic and Technical Quality Assessment of Multimedia and Media Analytics for Societal Trends, 2020. [journal](https://dl.acm.org/doi/10.1145/3423268.3423590), [code](https://github.com/kang-gnak/eva-dataset)
 
     *Kang, Chen and Valenzise, Giuseppe and Dufaux, Frédéric*
 
@@ -754,7 +754,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Rodriguez-Fernandez, Nereida and Alvarez-Gonzalez, Sara and Santos, Iria and Torrente-Patiño, Alvaro and Carballal, Adrian and Romero, Juan*
 
-33. **“i Feel Like I Am in That Place and I Would Like to See More.”: Aesthetic and Embodiment Components of tourist Destination Image.** Psychology of Aesthetics, Creativity, and the Arts, 2022. [journal](https://www.researchgate.net/publication/361680365_I_Feel_like_I_Am_in_That_Place_and_I_Would_like_to_See_More_Aesthetic_and_Embodiment_Components_of_Tourist_Destination_Image)
+33. **“I Feel Like I Am in That Place and I Would Like to See More.”: Aesthetic and Embodiment Components of tourist Destination Image.** Psychology of Aesthetics, Creativity, and the Arts, 2022. [journal](https://www.researchgate.net/publication/361680365_I_Feel_like_I_Am_in_That_Place_and_I_Would_like_to_See_More_Aesthetic_and_Embodiment_Components_of_Tourist_Destination_Image)
 
     *Malvica, Sonia and Palumbo, Letizia and Cazzato, Valentina*
 
