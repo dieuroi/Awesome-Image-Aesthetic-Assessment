@@ -186,7 +186,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Chang, Kuang-Yu and Lu, Kung-Hung and Chen, Chu-Song*
 
-30. **Deep Aesthetic Quality Assessment with Semantic Information.** IEEE Transactions on Image Processing, 2017. [journal](https://ieeexplore.ieee.org/document/7814292#:~:text=Deep%20Aesthetic%20Quality%20Assessment%20With%20Semantic%20Information%20Abstract%3A,between%20automatic%20aesthetic%20quality%20assessment%20and%20semantic%20recognition.)
+30. **Deep Aesthetic Quality Assessment with Semantic Information.** IEEE Transactions on Image Processing, 2017. [journal](https://ieeexplore.ieee.org/document/7814292/)
 
     *Kao, Yueying and He, Ran and Huang, Kaiqi*
 
@@ -214,11 +214,11 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Wang, Wenguan and Shen, Jianbing*
 
-37. **Using CNN Features to Better Understand What Makes Visual Artworks Special.** Frontiers in psychology, 2017. [journal]()
+37. **Using CNN Features to Better Understand What Makes Visual Artworks Special.** Frontiers in psychology, 2017. [journal](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00830/full)
 
     *Brachmann, Anselm and Barth, Erhardt and Redies, Christoph*
 
-38. **Computational and Experimental Approaches to Visual Aesthetics.** Frontiers in computational neuroscience, 2017. [journal]()
+38. **Computational and Experimental Approaches to Visual Aesthetics.** Frontiers in computational neuroscience, 2017. [journal](https://www.frontiersin.org/articles/10.3389/fncom.2017.00102/full)
 
     *Brachmann, Anselm and Redies, Christoph*
 
@@ -262,33 +262,33 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Talebi, Hossein and Milanfar, Peyman*
 
-49. **Will People Like Your Image? Learning the Aesthetic Space.** WACV, 2018. [paper](), [code](https://github.com/cgtuebingen/will-people-like-your-image)
+49. **Will People Like Your Image? Learning the Aesthetic Space.** WACV, 2018. [paper](https://arxiv.org/abs/1611.05203), [code](https://github.com/cgtuebingen/will-people-like-your-image)
 
     *Schwarz, Katharina and Wieschollek, Patrick and Lensch, Hendrik PA*
 
-50. **Learning to Detect Multiple Photographic Defects.** WACV, 2018. [paper]()
+50. **Learning to Detect Multiple Photographic Defects.** WACV, 2018. [paper](https://arxiv.org/pdf/1612.01635v4.pdf), [code](https://github.com/ningyu1991/DefectDetection)
 
     *Yu, Ning and Shen, Xiaohui and Lin, Zhe and Mech, Radomir and Barnes, Connelly*
 
-51. **PAC-Net: Pairwise Aesthetic Comparison Network for Image Aesthetic Assessment.** ICIP, 2018. [paper]()
+51. **PAC-Net: Pairwise Aesthetic Comparison Network for Image Aesthetic Assessment.** ICIP, 2018. [paper](https://ieeexplore.ieee.org/document/8451621/)
 
     *Ko, Keunsoo and Lee, Jun-Tae and Kim, Chang-Su*
 
-52. **Instagram Likes for Architectural Photos Can Be Predicted By Quantitative Balance Measures and Curvature.** Frontiers in Psychology, 2018. [journal]()
+52. **Instagram Likes for Architectural Photos Can Be Predicted By Quantitative Balance Measures and Curvature.** Frontiers in Psychology, 2018. [journal](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01050/full)
 
     *Thömmes, Katja and Hübner, Ronald*
 
-53. **Photographic Composition Classification and Dominant Geometric Element Detection for Outdoor Scenes.** Journal of Visual Communication and Image Representation, 2018. [journal](), [code](http://mcl.korea.ac.kr/research/Submitted/jtlee_JVCIR2018/code.zip)
+53. **Photographic Composition Classification and Dominant Geometric Element Detection for Outdoor Scenes.** Journal of Visual Communication and Image Representation, 2018. [journal](https://www.sciencedirect.com/science/article/abs/pii/S1047320318301147), [code](http://mcl.korea.ac.kr/research/Submitted/jtlee_JVCIR2018/code.zip)
 
     *Lee, Jun-Tae and Kim, Han-Ul and Lee, Chul and Kim, Chang-Su*
 
-54. **Image Aesthetic Assessment based on Pairwise Comparison - A Unified Approach to Score Regression, Binary Classification, and Personalization.** ICCV, 2019. [paper](https://arxiv.org/pdf/1706.07450.pdf), [code](https://github.com/alexnowakvila/QAP_pt)
+54. **Image Aesthetic Assessment based on Pairwise Comparison - A Unified Approach to Score Regression, Binary Classification, and Personalization.** ICCV, 2019. [paper](http://www.vie.group/lab/media/pdf/Lee_Image_Aesthetic_Assessment_Based_on_Pairwise_Comparison__A_Unified_ICCV_2019_paper.pdf)
 
-    *Nowak, Alex and Villar, Soledad and Bandeira, S. Afonso and Bruna, Joan*
+    *Lee, Jun-Tae and Kim, Chang-Su*
 
-55. **Personality Driven Multi-Task Learning for Image Aesthetic Assessment.** ICME, 2019. [paper](https://arxiv.org/abs/1803.08475)
+55. **Personality Driven Multi-Task Learning for Image Aesthetic Assessment.** ICME, 2019. [paper](https://ieeexplore.ieee.org/document/8784759)
 
-    *Kool, Wouter and Van Hoof, Herke and Welling, Max.*
+    *Li, Leida and Zhu, Hancheng and Zhao, Sicheng and Ding, Guiguang and Jiang, Hongyan and Tan, Allen*
 
 56. **Aesthetic Attributes Assessment of Images.** ACM Multimedia, 2019. [paper](https://arxiv.org/abs/2208.04522), [code](https://github.com/BestiVictory/DPC-Captions)
 
@@ -330,7 +330,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Pan, Bowen and Wang, Shangfei and Jiang, Qisheng*
 
-66. **Aspect-Ratio-Preserving Multi-Patch Image Aesthetics Score Prediction.** CVPR Workshops, 2019. [paper](https://ieeexplore.ieee.org/document/9025557/#:~:text=Aspect-Ratio-Preserving%20Multi-Patch%20Image%20Aesthetics%20Score%20Prediction%20Abstract%3AOwing%20to,which%20raises%20the%20importance%20of%20evaluating%20image%20aesthetics.)
+66. **Aspect-Ratio-Preserving Multi-Patch Image Aesthetics Score Prediction.** CVPR Workshops, 2019. [paper](https://ieeexplore.ieee.org/document/9025557/)
 
     *Wang, Lijie and Wang, Xueting and Yamasaki, Toshihiko and Aizawa, Kiyoharu*
 
@@ -342,17 +342,17 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Hosu, Vlad and Goldlucke, Bastian and Saupe, Dietmar*
 
-69. **An Universal Image Attractiveness Ranking Framework.** WACV, 2019. [paper]()
+69. **An Universal Image Attractiveness Ranking Framework.** WACV, 2019. [paper](https://arxiv.org/abs/1805.00309)
 
     *Ma, Ning and Volkov, Alexey and Livshits, Aleksandr and Pietrusinski, Pawel and Hu, Houdong and Bolin, Mark*
 
-70. **Modeling Human Perception for Image Aesthetic Assessme.** ICIP, 2019. [paper]()
+70. **Modeling Human Perception for Image Aesthetic Assessme.** ICIP, 2019. [paper](https://ieeexplore.ieee.org/document/8803749/)
 
     *Wang, Weining and Deng, Rui*
 
-71. **Personality-Assisted Multi-Task Learning for Generic and Personalized Image Aesthetics Assessment.** IEEE Transactions on Image Processing, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-319-93031-2_12), [code](https://github.com/MichelDeudon/encode-attend-navigate)
+71. **Personality-Assisted Multi-Task Learning for Generic and Personalized Image Aesthetics Assessment.** IEEE Transactions on Image Processing, 2020. [journal](https://ieeexplore.ieee.org/document/8970458)
 
-    *Michel DeudonPierre CournutAlexandre Lacoste*
+    *Li, Leida and Zhu, Hancheng and Zhao, Sicheng and Ding, Guiguang, and Lin, Weisi*
 
 72. **Beyond Vision: A Multimodal Recurrent Attention Convolutional Neural Network for Unified Image Aesthetic Prediction Tasks.** IEEE Transactions on Multimedia, 2020. [journal](https://ieeexplore.ieee.org/document/9057597)
 
@@ -382,15 +382,15 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Kang, Chen and Valenzise, Giuseppe and Dufaux, Frédéric*
 
-79. **Object-Level Attention for Aesthetic Rating Distribution Prediction.** ACM Multimedia, 2020. [paper]()
+79. **Object-Level Attention for Aesthetic Rating Distribution Prediction.** ACM Multimedia, 2020. [paper](https://dl.acm.org/doi/10.1145/3394171.3413695)
 
     *Hou, Jingwen and Yang, Sheng and Lin, Weisi*
 
-80. **Representation Learning of Image Composition for Aesthetic Prediction.** Computer Vision and Image Understanding, 2020. [journal](), [code](https://github.com/fei-hdu/ReLIC)
+80. **Representation Learning of Image Composition for Aesthetic Prediction.** Computer Vision and Image Understanding, 2020. [journal](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801), [code](https://github.com/fei-hdu/ReLIC)
 
     *Zhao, Lin and Shang, Meimei and Gao, Fei and Li, Rongsheng and Huang, Fei and Yu, Jun*
 
-81. **A Hypothesis for the Aesthetic Appreciation in Neural Networks.** arXiv, 2021. [journal](https://arxiv.org/abs/2108.02646#:~:text=A%20Hypothesis%20for%20the%20Aesthetic%20Appreciation%20in%20Neural,strengthen%20salient%20concepts%20and%20discard%20inessential%20concepts.%20)
+81. **A Hypothesis for the Aesthetic Appreciation in Neural Networks.** arXiv, 2021. [journal](https://arxiv.org/abs/2108.02646)
 
     *Cheng, Xu and Wang, Xin and Xue, Haotian and Liang, Zhengyang and Zhang, Quanshi*
 
@@ -406,11 +406,11 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Pfister, Jan and Kobs, Konstantin and Hotho, Andreas*
 
-85. **Learning Image Aesthetic Assessment from Object-Level Visual Components.** arXiv, 2021. [journal]()
+85. **Learning Image Aesthetic Assessment from Object-Level Visual Components.** arXiv, 2021. [journal](https://arxiv.org/pdf/2104.01548.pdf)
 
     *Hou, Jingwen and Yang, Sheng and Lin, Weisi and Zhao, Baoquan and Fang, Yuming*
 
-86. **Aesthetic Evaluation and Guidance for Mobile Photography.** ACM Multimedia, 2021. [paper]()
+86. **Aesthetic Evaluation and Guidance for Mobile Photography.** ACM Multimedia, 2021. [paper](https://dl.acm.org/doi/10.1145/3474085.3478557)
 
     *Lou, Hao and Huang, Heng and Xiao, Chaoen and Jin, Xin*
 
@@ -482,19 +482,23 @@ We would like to maintain a list of resources that utilize machine learning tech
 
      *Hentschel, Simon and Kobs, Konstantin and Hotho, Andreas*
 
-104. **Aesthetically Relevant Image Captioning.** AAAI, 2023. [paper](https://ui.adsabs.harvard.edu/abs/2022arXiv221115378Z/abstract#:~:text=Aesthetically%20Relevant%20Image%20Captioning%20-%20NASA%2FADS%20Image%20aesthetic,textual%20descriptions%20of%20the%20aesthetic%20aspects%20of%20images.), [code](https://github.com/PengZai/ARIC)
+104. **Aesthetic Attribute Assessment of Images Numerically on Mixed Multi-attribute Datasets.** ACM Transactions on Multimedia Computing, Communications, and Applications, 2022. [journal](https://doi.org/10.1145/3547144), [code](https://github.com/BestiVictory/Aesthetic-Attribute-Assessment-Model/tree/master)
+
+     *Jin, Xin; Li, Xinning; Lou, Hao; Fan, Chenyu; Deng, Qiang; Xiao, Chaoen; Cui, Shuai; Singh, Amit Kumar*
+
+105. **Aesthetically Relevant Image Captioning.** AAAI, 2023. [paper](https://arxiv.org/abs/2211.15378), [code](https://github.com/PengZai/ARIC)
 
      *Zhong, Zhipeng and Zhou, Fei and Qiu, Guoping*
 
-105. **Neural Mechanisms Underlying the Hierarchical Construction of Perceived Aesthetic Value.** Nature Communications, 2023. [journal](https://www.nature.com/articles/s41467-022-35654-y)
+106. **Neural Mechanisms Underlying the Hierarchical Construction of Perceived Aesthetic Value.** Nature Communications, 2023. [journal](https://www.nature.com/articles/s41467-022-35654-y)
 
      *Iigaya, Kiyohito and Yi, Sanghyun and Wahle, Iman A and Tanwisuth, Sandy and Cross, Logan and Logan and O’Doherty, John P*
 
-106. **VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining.** , 2023. [journal](https://arxiv.org/abs/2303.14302)
+107. **VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining.** , 2023. [journal](https://arxiv.org/abs/2303.14302)
 
      *Ke, Junjie and Ye, Keren and Yu, Jiahui and Wu, Yonghui and Milanfar, Peyman and Yang, Feng*
 
-107. **Towards Artistic Image Aesthetics Assessment: a Large-Scale Dataset and a New Method.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.15166), [code](https://github.com/Dreemurr-T/BAID)
+108. **Towards Artistic Image Aesthetics Assessment: a Large-Scale Dataset and a New Method.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.15166), [code](https://github.com/Dreemurr-T/BAID)
 
      *Yi, Ran; Tian, Haoyuan; Gu, Zhihao; Lai, Yu-Kun; Rosin, Paul L*
 
@@ -512,39 +516,39 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Wang, Guolong and Yan, Junchi and Qin, Zheng*
 
-4. **Image Aesthetic Assessment based on Pairwise Comparison - A Unified Approach to Score Regression, Binary Classification, and Personalization.** ICCV, 2019. [paper](https://arxiv.org/pdf/1706.07450.pdf), [code](https://github.com/alexnowakvila/QAP_pt)
+4. **Image Aesthetic Assessment based on Pairwise Comparison - A Unified Approach to Score Regression, Binary Classification, and Personalization.** ICCV, 2019. [paper](http://www.vie.group/lab/media/pdf/Lee_Image_Aesthetic_Assessment_Based_on_Pairwise_Comparison__A_Unified_ICCV_2019_paper.pdf)
 
-    *Nowak, Alex and Villar, Soledad and Bandeira, S. Afonso and Bruna, Joan*
+    *Lee, Jun-Tae and Kim, Chang-Su*
 
-5. **Personality Driven Multi-Task Learning for Image Aesthetic Assessment.** ICME, 2019. [paper](https://arxiv.org/abs/1803.08475)
+5. **Personality Driven Multi-Task Learning for Image Aesthetic Assessment.** ICME, 2019. [paper](https://ieeexplore.ieee.org/document/8784759)
 
-    *Kool, Wouter and Van Hoof, Herke and Welling, Max.*
+    *Li, Leida and Zhu, Hancheng and Zhao, Sicheng and Ding, Guiguang and Jiang, Hongyan and Tan, Allen*
 
 6. **Meta-Learning Perspective for Personalized Image Aesthetics Assessment.** ICIP, 2019. [paper](https://ieeexplore.ieee.org/document/8803119/)
 
     *Wang, Weining and Su, Junjie and Li, Lemin and Xu, Xiangmin and Luo, Jiebo*
 
-7. **Personalized Image Aesthetics Assessment via Meta-Learning with Bilevel Gradient Optimization.** IEEE Transactions on Image Processing, 2020. [paper](https://arxiv.org/abs/2010.16011), [code](https://github.com/yd-kwon/POMO/)
+7. **Personalized Image Aesthetics Assessment via Meta-Learning with Bilevel Gradient Optimization.** IEEE Transactions on Image Processing, 2020. [journal](https://ieeexplore.ieee.org/abstract/document/9115059), [code](https://github.com/zhuhancheng/BLG-PIAA)
 
-    *Kwon, Yeong-Dae and Choo, Jinho and Kim, Byoungjip and Yoon, Iljoo and Min, Seungjai and Gwon, Youngjune.*
+    *Zhu, Hancheng and Li, Leida and Wu, Jinjian and Zhao, Sicheng and Ding, Guiguang and Shi, Guangming*
 
-8. **Personality-Assisted Multi-Task Learning for Generic and Personalized Image Aesthetics Assessment.** IEEE Transactions on Image Processing, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-319-93031-2_12), [code](https://github.com/MichelDeudon/encode-attend-navigate)
+8. **Personality-Assisted Multi-Task Learning for Generic and Personalized Image Aesthetics Assessment.** IEEE Transactions on Image Processing, 2020. [journal](https://ieeexplore.ieee.org/document/8970458)
 
-    *Michel DeudonPierre CournutAlexandre Lacoste*
+    *Li, Leida and Zhu, Hancheng and Zhao, Sicheng and Ding, Guiguang, and Lin, Weisi*
 
 9. **Personalized Image Quality Assessment with Social-Sensed Aesthetic Preference.** Information Sciences, 2020. [journal](https://www.sciencedirect.com/science/article/pii/S002002551930965X)
 
     *Cui, Chaoran and Yang, Wenya and Shi, Cheng and Wang, Meng and Nie, Xiushan and Yin, Yilong*
 
-10. **Learning Personalized Image Aesthetics from Subjective and Objective Attributes.** Personalized Image Aesthetic Assessment, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/4399)
+10. **Learning Personalized Image Aesthetics from Subjective and Objective Attributes.** IEEE Transactions on Multimedia, 2021. [journal](https://ieeexplore.ieee.org/abstract/document/9599464)
 
-    *Prates, Marcelo and Avelar, Pedro HC and Lemos, Henrique and Lamb, Luis C and Vardi, Moshe Y.*
+    *Zhu, Hancheng and Zhou, Yong and Li, Leida and Li, Yaqian and Guo, Yandong*
 
 11. **User-Guided Personalized Image Aesthetic Assessment Based on Deep Reinforcement Learning.** IEEE Transactions on Multimedia, 2021. [journal](https://ieeexplore.ieee.org/document/9627535/)
 
     *Lv, Pei and Fan, Jianqi and Nie, Xixi and Dong, Weiming and Jiang, Xiaoheng and Zhou, Bing and Xu, Mingliang and Xu, Changsheng*
 
-12. **Interaction-Matrix Based Personalized Image Aesthetics Assessment.** IEEE Transactions on Multimedia, 2022. [journal](https://ieeexplore.ieee.org/abstract/document/9817633/#:~:text=Interaction-Matrix%20Based%20Personalized%20Image%20Aesthetics%20Assessment%20Abstract%3A%20Personalized,that%20estimates%20aesthetic%20experiences%20subject%20to%20average%20preferences.)
+12. **Interaction-Matrix Based Personalized Image Aesthetics Assessment.** IEEE Transactions on Multimedia, 2022. [journal](https://ieeexplore.ieee.org/abstract/document/9817633/)
 
     *Hou, Jingwen and Lin, Weisi and Yue, Guanghui and Liu, Weide and Zhao, Baoquan*
 
@@ -578,7 +582,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Nieto, Daniel Vera and Celona, Luigi and Fernandez-Labrador, Clara*
 
-6. **Aesthetically Relevant Image Captioning.** AAAI, 2023. [paper](https://ui.adsabs.harvard.edu/abs/2022arXiv221115378Z/abstract#:~:text=Aesthetically%20Relevant%20Image%20Captioning%20-%20NASA%2FADS%20Image%20aesthetic,textual%20descriptions%20of%20the%20aesthetic%20aspects%20of%20images.), [code](https://github.com/PengZai/ARIC)
+6. **Aesthetically Relevant Image Captioning.** AAAI, 2023. [paper](https://arxiv.org/abs/2211.15378), [code](https://github.com/PengZai/ARIC)
 
     *Zhong, Zhipeng and Zhou, Fei and Qiu, Guoping*
 
@@ -670,7 +674,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Muszynski, Michal and Kostoulas, Theodoros and Lombardo, Patrizia and Pun, Thierry and Chanel, Guillaume*
 
-12. **A2-RL: Aesthetics Aware Reinforcement Learning for Image Cropping.** CVPR, 2018. [paper](https://ar5iv.labs.arxiv.org/html/1709.04595#:~:text=The%20A2-RL%20model%20can%20finish%20the%20cropping%20process,aware%20reward%20function%20which%20especially%20benefits%20image%20cropping.)
+12. **A2-RL: Aesthetics Aware Reinforcement Learning for Image Cropping.** CVPR, 2018. [paper](https://arxiv.org/pdf/1709.04595)
 
     *Li, Debang and Wu, Huikai and Zhang, Junge and Huang, Kaiqi*
 
