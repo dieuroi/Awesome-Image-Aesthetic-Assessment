@@ -378,7 +378,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Shu, Yangyang and Li, Qian and Liu, Shaowu and Xu, Guandong*
 
-78. **Eva: An Explainable Visual Aesthetics Dataset.** Joint Workshop on Aesthetic and Technical Quality Assessment of Multimedia and Media Analytics for Societal Trends, 2020. [journal](https://dl.acm.org/doi/10.1145/3423268.3423590), [code](https://github.com/kang-gnak/eva-dataset)
+78. **EVA: An Explainable Visual Aesthetics Dataset.** Joint Workshop on Aesthetic and Technical Quality Assessment of Multimedia and Media Analytics for Societal Trends, 2020. [journal](https://dl.acm.org/doi/10.1145/3423268.3423590), [code](https://github.com/kang-gnak/eva-dataset)
 
     *Kang, Chen and Valenzise, Giuseppe and Dufaux, Frédéric*
 
@@ -486,19 +486,23 @@ We would like to maintain a list of resources that utilize machine learning tech
 
      *Jin, Xin; Li, Xinning; Lou, Hao; Fan, Chenyu; Deng, Qiang; Xiao, Chaoen; Cui, Shuai; Singh, Amit Kumar*
 
-105. **Aesthetically Relevant Image Captioning.** AAAI, 2023. [paper](https://arxiv.org/abs/2211.15378), [code](https://github.com/PengZai/ARIC)
+105. **MaxViT: Multi-Axis Vision Transformer.** ECCV, 2022. [paper](https://arxiv.org/abs/2204.01697), [code](https://github.com/google-research/maxvit)
+
+     *Tu, Zhengzhong and Talebi, Hossein and Zhang, Han and Yang, Feng and Milanfar, Peyman and Bovik, Alan and Li, Yinxiao*
+
+106. **Aesthetically Relevant Image Captioning.** AAAI, 2023. [paper](https://arxiv.org/abs/2211.15378), [code](https://github.com/PengZai/ARIC)
 
      *Zhong, Zhipeng and Zhou, Fei and Qiu, Guoping*
 
-106. **Neural Mechanisms Underlying the Hierarchical Construction of Perceived Aesthetic Value.** Nature Communications, 2023. [journal](https://www.nature.com/articles/s41467-022-35654-y)
+107. **Neural Mechanisms Underlying the Hierarchical Construction of Perceived Aesthetic Value.** Nature Communications, 2023. [journal](https://www.nature.com/articles/s41467-022-35654-y)
 
      *Iigaya, Kiyohito and Yi, Sanghyun and Wahle, Iman A and Tanwisuth, Sandy and Cross, Logan and Logan and O’Doherty, John P*
 
-107. **VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining.** , 2023. [journal](https://arxiv.org/abs/2303.14302)
+108. **VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining.** , 2023. [journal](https://arxiv.org/abs/2303.14302)
 
      *Ke, Junjie and Ye, Keren and Yu, Jiahui and Wu, Yonghui and Milanfar, Peyman and Yang, Feng*
 
-108. **Towards Artistic Image Aesthetics Assessment: a Large-Scale Dataset and a New Method.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.15166), [code](https://github.com/Dreemurr-T/BAID)
+109. **Towards Artistic Image Aesthetics Assessment: a Large-Scale Dataset and a New Method.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.15166), [code](https://github.com/Dreemurr-T/BAID)
 
      *Yi, Ran; Tian, Haoyuan; Gu, Zhihao; Lai, Yu-Kun; Rosin, Paul L*
 
