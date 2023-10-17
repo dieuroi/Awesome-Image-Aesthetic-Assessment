@@ -504,19 +504,19 @@ We would like to maintain a list of resources that utilize machine learning tech
 
 109. **Towards Artistic Image Aesthetics Assessment: a Large-Scale Dataset and a New Method.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.15166), [code](https://github.com/Dreemurr-T/BAID)
 
-     *Yi, Ran; Tian, Haoyuan; Gu, Zhihao; Lai, Yu-Kun; Rosin, Paul L*
+     *Yi, Ran and Tian, Haoyuan and Gu, Zhihao and Lai, Yu-Kun and Rosin, Paul L*
 
-110. **AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks.** ICCV, 2023. [journal](https://arxiv.org/abs/2307.09724)
+110. **AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_AesPA-Net_Aesthetic_Pattern-Aware_Style_Transfer_Networks_ICCV_2023_paper.pdf)
 
-    *Hong,Kibeom and Jeon,Seogkyu and Lee,Junsoo and Ahn,Namhyuk and Kim,Kunhee and Lee,Pilhyeon and Kim,Daesik and Uh,Youngjung and Byun,Hyeran*
+    *Hong, Kibeom and Jeon, Seogkyu and Lee, Junsoo and Ahn, Namhyuk and Kim, Kunhee and Lee, Pilhyeon and Kim, Daesik and Uh, Youngjung and Byun, Hyeran*
 
-111. **GAIT: Generating Aesthetic Indoor Tours with Deep Reinforcement Learning.** ICCV, 2023. [paper](https://paperswithcode.com/paper/gait-generating-aesthetic-indoor-tours-with),[code](https://desaixie.github.io/gait-rl)
+111. **GAIT: Generating Aesthetic Indoor Tours with Deep Reinforcement Learning.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_GAIT_Generating_Aesthetic_Indoor_Tours_with_Deep_Reinforcement_Learning_ICCV_2023_paper.pdf),[code](https://desaixie.github.io/gait-rl)
 
-    *Xie,Desai and Hu,Ping and Sun,Xin and Pirk,Soren and Zhang,Jianming and Mech,Radomir and Kaufman,E.Arie*
+    *Xie, Desai and Hu, Ping and Sun, Xin and Pirk, Soren and Zhang, Jianming and Mech, Radomir and Kaufman, E.Arie*
 
-112. **Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives.** ICCV, 2023. [journal](https://arxiv.org/abs/2211.04894)
+112. **Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf)
 
-    *Wu,Haoning and Zhang,Erli and Liao,Liang and Chen,Chaofeng and Hou,Jingwen and Wang,Annan and Sun,Wenxiu and Yan,Qiong and Lin,Weisi*
+    *Wu, Haoning and Zhang, Erli and Liao, Liang and Chen, Chaofeng and Hou, Jingwen and Wang, Annan and Sun, Wenxiu and Yan, Qiong and Lin, Weisi*
 
 ### [Personalized Image Aesthetic Assessment](#content)
 
@@ -642,7 +642,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
 10. **Towards Artistic Image Aesthetics Assessment: a Large-Scale Dataset and a New Method.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.15166), [code](https://github.com/Dreemurr-T/BAID)
 
-    *Yi, Ran; Tian, Haoyuan; Gu, Zhihao; Lai, Yu-Kun; Rosin, Paul L*
+    *Yi, Ran and Tian, Haoyuan and Gu, Zhihao and Lai, Yu-Kun and Rosin, Paul L*
 
 ### [Aesthetic Assessment in Downstream Tasks](#content)
 
