@@ -506,7 +506,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
      *Yi, Ran; Tian, Haoyuan; Gu, Zhihao; Lai, Yu-Kun; Rosin, Paul L*
 
-110. **AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks.** arXiv, 2023. [journal](https://arxiv.org/abs/2307.09724)
+110. **AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks.** ICCV, 2023. [journal](https://arxiv.org/abs/2307.09724)
 
     *Hong,Kibeom and Jeon,Seogkyu and Lee,Junsoo and Ahn,Namhyuk and Kim,Kunhee and Lee,Pilhyeon and Kim,Daesik and Uh,Youngjung and Byun,Hyeran*
 
@@ -514,7 +514,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Xie,Desai and Hu,Ping and Sun,Xin and Pirk,Soren and Zhang,Jianming and Mech,Radomir and Kaufman,E.Arie*
 
-112. **Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives.** arXiv, 2023. [journal](https://arxiv.org/abs/2211.04894)
+112. **Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives.** ICCV, 2023. [journal](https://arxiv.org/abs/2211.04894)
 
     *Wu,Haoning and Zhang,Erli and Liao,Liang and Chen,Chaofeng and Hou,Jingwen and Wang,Annan and Sun,Wenxiu and Yan,Qiong and Lin,Weisi*
 
