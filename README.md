@@ -508,15 +508,15 @@ We would like to maintain a list of resources that utilize machine learning tech
 
 110. **AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_AesPA-Net_Aesthetic_Pattern-Aware_Style_Transfer_Networks_ICCV_2023_paper.pdf)
 
-    *Hong, Kibeom and Jeon, Seogkyu and Lee, Junsoo and Ahn, Namhyuk and Kim, Kunhee and Lee, Pilhyeon and Kim, Daesik and Uh, Youngjung and Byun, Hyeran*
+     *Hong, Kibeom and Jeon, Seogkyu and Lee, Junsoo and Ahn, Namhyuk and Kim, Kunhee and Lee, Pilhyeon and Kim, Daesik and Uh, Youngjung and Byun, Hyeran*
 
 111. **GAIT: Generating Aesthetic Indoor Tours with Deep Reinforcement Learning.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_GAIT_Generating_Aesthetic_Indoor_Tours_with_Deep_Reinforcement_Learning_ICCV_2023_paper.pdf),[code](https://desaixie.github.io/gait-rl)
 
-    *Xie, Desai and Hu, Ping and Sun, Xin and Pirk, Soren and Zhang, Jianming and Mech, Radomir and Kaufman, E.Arie*
+     *Xie, Desai and Hu, Ping and Sun, Xin and Pirk, Soren and Zhang, Jianming and Mech, Radomir and Kaufman, E.Arie*
 
 112. **Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf)
 
-    *Wu, Haoning and Zhang, Erli and Liao, Liang and Chen, Chaofeng and Hou, Jingwen and Wang, Annan and Sun, Wenxiu and Yan, Qiong and Lin, Weisi*
+     *Wu, Haoning and Zhang, Erli and Liao, Liang and Chen, Chaofeng and Hou, Jingwen and Wang, Annan and Sun, Wenxiu and Yan, Qiong and Lin, Weisi*
 
 ### [Personalized Image Aesthetic Assessment](#content)
 
