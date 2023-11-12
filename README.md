@@ -10,7 +10,7 @@
 
 We would like to maintain a list of resources that utilize machine learning technologies to solve image aesthetic assessment.
 
-*Maintained by members from UIBE: Xiangyi Zhang, Yanghao Xing, Yufei Deng, Yifan Yang and Guolong Wang. We also thank all the advisers!*
+*Maintained by members from UIBE: Liu Lian, Xiangyi Zhang, Yanghao Xing, Yufei Deng, Yifan Yang and Guolong Wang. We also thank all the advisers!*
 
 *Thank you for the support of [Thinklab](http://thinklab.sjtu.edu.cn).*
 
@@ -517,6 +517,22 @@ We would like to maintain a list of resources that utilize machine learning tech
 112. **Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf)
 
      *Wu, Haoning and Zhang, Erli and Liao, Liang and Chen, Chaofeng and Hou, Jingwen and Wang, Annan and Sun, Wenxiu and Yan, Qiong and Lin, Weisi*
+
+113. **Thinking Image Color Aesthetics Assessment: Models, Datasets and Benchmarks.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Thinking_Image_Color_Aesthetics_Assessment_Models_Datasets_and_Benchmarks_ICCV_2023_paper.pdf)
+
+     *He,Shuai and Ming,Anlong and Li,Yaqi and Sun,Jinyuan and Zeng,huntian and Ma,Huadong*
+
+114. **A Brain-inspired Multimodal Interaction Network for Image Aesthetic Assessment.** ACM International Conference on Multimedia, 2023. [paper](https://doi.org/10.1145/3581783.3611996)
+
+     *Nie,Xixi and Hu,Bo and Gao,Xinbo and Li,Leida and Zhang,Xiaodan and Xiao Bin*
+
+115. **Personalized Image Aesthetics Assessment with Attribute-guided Fine-grained Feature Representation.** ACM International Conference on Multimedia, 2023. [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611942)
+
+     *Zhu,Hancheng and Shao,Zhiwen and Zhou,Yong and Wang,Guangcheng and Chen,Pengfei and Li,Leida*
+
+116. **AesCLIP: Multi-Attribute Contrastive Learning for Image Aesthetics Assessment.** ACM International Conference on Multimedia, 2023. [paper](https://doi.org/10.1145/3581783.3611969)
+
+     *Sheng,Xiangfei and Li,Leida and Chen,Pengfei and Wu,Jinjian and Dong,Weisheng and Yang,Yuzhe and Xu,Liwu and Li,Yanqian and Shi,Guangming*
 
 ### [Personalized Image Aesthetic Assessment](#content)
 
