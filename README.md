@@ -10,7 +10,7 @@
 
 We would like to maintain a list of resources that utilize machine learning technologies to solve image aesthetic assessment.
 
-*Maintained by members from UIBE: Xiangyi Zhang, Yanghao Xing, Yufei Deng, Yifan Yang and Guolong Wang. We also thank all the advisers!*
+*Maintained by members from UIBE: Lian Liu, Xiangyi Zhang, Yanghao Xing, Yufei Deng, Yifan Yang and Guolong Wang. We also thank all the advisers!*
 
 *Thank you for the support of [Thinklab](http://thinklab.sjtu.edu.cn).*
 
@@ -468,91 +468,120 @@ We would like to maintain a list of resources that utilize machine learning tech
 
 100. **Theme-Aware Aesthetic Distribution Prediction with Full-Resolution Photographs.** IEEE Transactions on Neural Networks and Learning Systems, 2022. [journal](https://arxiv.org/abs/1908.01308)
 
-    *Jia, Gengyun and Li, Peipei and He, Ran*
+     *Jia, Gengyun and Li, Peipei and He, Ran*
 
 101. **BeauVis: A Validated Scale for Measuring the Aesthetic Pleasure of Visual Representations.** IEEE Transactions on Visualization and Computer Graphics, 2022. [journal](http://export.arxiv.org/abs/2207.14147v2)
 
-    *He, Tingying and Isenberg, Petra and Dachselt, Raimund and Isenberg, Tobias*
+     *He, Tingying and Isenberg, Petra and Dachselt, Raimund and Isenberg, Tobias*
 
 102. **Compression Ensembles Quantify Aesthetic Complexity and the Evolution of Visual Art.** arXiv, 2022. [journal](https://arxiv.org/abs/2205.10271)
 
-    *Karjus, Andres and Solà, Mar Canet and Ohm, Tillmann and Ahnert, Sebastian E and Schich, Maximilian*
+     *Karjus, Andres and Solà, Mar Canet and Ohm, Tillmann and Ahnert, Sebastian E and Schich, Maximilian*
 
 103. **Clip Knows Image Aesthetics.** Frontiers in Artificial Intelligence, 2022. [journal](https://www.frontiersin.org/articles/10.3389/frai.2022.976235/full)
 
-    *Hentschel, Simon and Kobs, Konstantin and Hotho, Andreas*
+     *Hentschel, Simon and Kobs, Konstantin and Hotho, Andreas*
 
 104. **Aesthetic Attribute Assessment of Images Numerically on Mixed Multi-attribute Datasets.** ACM Transactions on Multimedia Computing, Communications, and Applications, 2022. [journal](https://doi.org/10.1145/3547144), [code](https://github.com/BestiVictory/Aesthetic-Attribute-Assessment-Model/tree/master)
 
-    *Jin, Xin and Li, Xinning and Lou, Hao and Fan, Chenyu and Deng, Qiang and Xiao, Chaoen and Cui, Shuai and Singh, Amit Kumar*
+     *Jin, Xin and Li, Xinning and Lou, Hao and Fan, Chenyu and Deng, Qiang and Xiao, Chaoen and Cui, Shuai and Singh, Amit Kumar*
 
 105. **MaxViT: Multi-Axis Vision Transformer.** ECCV, 2022. [paper](https://arxiv.org/abs/2204.01697), [code](https://github.com/google-research/maxvit)
 
-    *Tu, Zhengzhong and Talebi, Hossein and Zhang, Han and Yang, Feng and Milanfar, Peyman and Bovik, Alan and Li, Yinxiao*
+     *Tu, Zhengzhong and Talebi, Hossein and Zhang, Han and Yang, Feng and Milanfar, Peyman and Bovik, Alan and Li, Yinxiao*
 
 106. **Aesthetically Relevant Image Captioning.** AAAI, 2023. [paper](https://arxiv.org/abs/2211.15378), [code](https://github.com/PengZai/ARIC)
 
-    *Zhong, Zhipeng and Zhou, Fei and Qiu, Guoping*
+     *Zhong, Zhipeng and Zhou, Fei and Qiu, Guoping*
 
 107. **Neural Mechanisms Underlying the Hierarchical Construction of Perceived Aesthetic Value.** Nature Communications, 2023. [journal](https://www.nature.com/articles/s41467-022-35654-y)
 
-    *Iigaya, Kiyohito and Yi, Sanghyun and Wahle, Iman A and Tanwisuth, Sandy and Cross, Logan and Logan and O’Doherty, John P*
+     *Iigaya, Kiyohito and Yi, Sanghyun and Wahle, Iman A and Tanwisuth, Sandy and Cross, Logan and Logan and O’Doherty, John P*
 
 108. **VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining.** , 2023. [journal](https://arxiv.org/abs/2303.14302)
 
-    *Ke, Junjie and Ye, Keren and Yu, Jiahui and Wu, Yonghui and Milanfar, Peyman and Yang, Feng*
+     *Ke, Junjie and Ye, Keren and Yu, Jiahui and Wu, Yonghui and Milanfar, Peyman and Yang, Feng*
 
 109. **Towards Artistic Image Aesthetics Assessment: a Large-Scale Dataset and a New Method.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.15166), [code](https://github.com/Dreemurr-T/BAID)
+     *Yi, Ran; Tian, Haoyuan; Gu, Zhihao; Lai, Yu-Kun; Rosin, Paul L*
 
-    *Yi, Ran; Tian, Haoyuan; Gu, Zhihao; Lai, Yu-Kun; Rosin, Paul L*
+110.   **AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_AesPA-Net_Aesthetic_Pattern-Aware_Style_Transfer_Networks_ICCV_2023_paper.pdf)
 
-110. **EAT: An Enhancer for Aesthetics-Oriented Transformers** Proceedings of the 31st ACM International Conference on Multimedia, 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611881), [code](current-blank)
+     *Hong, Kibeom and Jeon, Seogkyu and Lee, Junsoo and Ahn, Namhyuk and Kim, Kunhee and Lee, Pilhyeon and Kim, Daesik and Uh, Youngjung and Byun, Hyeran*
 
-    *He, Shuai and Ming, Anlong and Zheng, Shuntian and Zhong, Haobin and Ma, Huadong*
+111.   **GAIT: Generating Aesthetic Indoor Tours with Deep Reinforcement Learning.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_GAIT_Generating_Aesthetic_Indoor_Tours_with_Deep_Reinforcement_Learning_ICCV_2023_paper.pdf),[code](https://desaixie.github.io/gait-rl)
 
-111. **A Machine Learning Paradigm for Studying Pictorial Realism: How Accurate are Constable's Clouds?** IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [journal](https://scholarsphere.psu.edu/resources/11df126d-6708-4fdb-9ba2-e517baab76f0/downloads/32950), [code](current-blank)
+     *Xie, Desai and Hu, Ping and Sun, Xin and Pirk, Soren and Zhang, Jianming and Mech, Radomir and Kaufman, E.Arie*
 
-    *Zhang, Zhuomin and Mansfield, Elizabeth C and Li, Jia and Russell, John and Young, George S and Adams, Catherine and Bowley, Kevin A and Wang, James Z*
+112.   **Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf)
 
-112. **AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception** arXiv preprint arXiv:2401.08276, 2024. [journal](https://arxiv.org/pdf/2401.08276), [code](current-blank)
+     *Wu, Haoning and Zhang, Erli and Liao, Liang and Chen, Chaofeng and Hou, Jingwen and Wang, Annan and Sun, Wenxiu and Yan, Qiong and Lin, Weisi*
 
-    *Huang, Yipo and Yuan, Quan and Sheng, Xiangfei and Yang, Zhichao and Wu, Haoning and Chen, Pengfei and Yang, Yuzhe and Li, Leida and Lin, Weisi*
+113.   **Thinking Image Color Aesthetics Assessment: Models, Datasets and Benchmarks.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Thinking_Image_Color_Aesthetics_Assessment_Models_Datasets_and_Benchmarks_ICCV_2023_paper.pdf)
 
-113. **AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception** arXiv preprint arXiv:2404.09624, 2024. [journal](https://arxiv.org/pdf/2404.09624), [code](https://github.com/yipoh/AesExpert)
+     *He, Shuai and Ming, Anlong and Li, Yaqi and Sun, Jinyuan and Zeng, huntian and Ma, Huadong*
 
-    *Huang, Yipo and Sheng, Xiangfei and Yang, Zhichao and Yuan, Quan and Duan, Zhichao and Chen, Pengfei and Li, Leida and Lin, Weisi and Shi, Guangming*
+114.   **A Brain-inspired Multimodal Interaction Network for Image Aesthetic Assessment.** ACM International Conference on Multimedia, 2023. [paper](https://doi.org/10.1145/3581783.3611996)
 
-114. **Coarse-to-fine Image Aesthetics Assessment With Dynamic Attribute Selection** IEEE Transactions on Multimedia, 2024. [journal](https://ieeexplore.ieee.org/abstract/document/10502339/), [code](current-blank)
+     *Nie, Xixi and Hu, Bo and Gao, Xinbo and Li, Leida and Zhang, Xiaodan and Xiao, Bin*
 
-    *Huang, Yipo and Li, Leida and Chen, Pengfei and Wu, Jinjian and Yang, Yuzhe and Li, Yaqian and Shi, Guangming*
+115.   **Personalized Image Aesthetics Assessment with Attribute-guided Fine-grained Feature Representation.** ACM International Conference on Multimedia, 2023. [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611942)
 
-115. **UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment** arXiv preprint arXiv:2406.01069, 2024. [journal](https://arxiv.org/pdf/2406.01069), [code](current-blank)
+     *Zhu, Hancheng and Shao, Zhiwen and Zhou, Yong and Wang, Guangcheng and Chen, Pengfei and Li, Leida*
 
-    *Zhou, Hantao and Tang, Longxiang and Yang, Rui and Qin, Guanyi and Zhang, Yan and Hu, Runze and Li, Xiu*
+116.   **AesCLIP: Multi-Attribute Contrastive Learning for Image Aesthetics Assessment.** ACM International Conference on Multimedia, 2023. [paper](https://doi.org/10.1145/3581783.3611969)
 
-116. **Multi-modal Learnable Queries for Image Aesthetics Assessment** ICME, 2024. [paper](https://arxiv.org/pdf/2405.01326), [code](current-blank)
+     *Sheng, Xiangfei and Li, Leida and Chen, Pengfei and Wu, Jinjian and Dong, Weisheng and Yang, Yuzhe and Xu, Liwu and Li, Yanqian and Shi, Guangming*
 
-    *Xiong, Zhiwei and Zhang, Yunfan and Shen, Zhiqi and Ren, Peiran and Yu, Han*
+117. **EAT: An Enhancer for Aesthetics-Oriented Transformers** Proceedings of the 31st ACM International Conference on Multimedia, 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611881), [code](current-blank)
 
-117. **Paintings and Drawings Aesthetics Assessment with Rich Attributes for Various Artistic Categories** IJCAI, 2024. [paper](https://arxiv.org/pdf/2405.02982), [code](current-blank)
+     *He, Shuai and Ming, Anlong and Zheng, Shuntian and Zhong, Haobin and Ma, Huadong*
 
-    *Jin, Xin and Qiao, Qianqian and Lu, Yi and Gao, Shan and Huang, Heng and Li, Guangdong*
+118. **A Machine Learning Paradigm for Studying Pictorial Realism: How Accurate are Constable's Clouds?** IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [journal](https://scholarsphere.psu.edu/resources/11df126d-6708-4fdb-9ba2-e517baab76f0/downloads/32950), [code](current-blank)
 
-118. **A self-supervised image aesthetic assessment combining masked image modeling and contrastive learning** Journal of Visual Communication and Image Representation, 2024. [journal](https://www.sciencedirect.com/science/article/pii/S1047320324001391), [code](current-blank)
+     *Zhang, Zhuomin and Mansfield, Elizabeth C and Li, Jia and Russell, John and Young, George S and Adams, Catherine and Bowley, Kevin A and Wang, James Z*
 
-    *Yang, Shuai and Wang, Zibei and Wang, Guangao and Ke, Yongzhen and Qin, Fan and Guo, Jing and Chen, Liming*
+119. **AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception** arXiv preprint arXiv:2401.08276, 2024. [journal](https://arxiv.org/pdf/2401.08276), [code](current-blank)
 
-119. **Assessing the Aesthetic Evaluation Capabilities of GPT-4 with Vision: Insights from Group and Individual Assessments** 人工知能学会全国大会論文集 第 38 回 (2024), 2024. [paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2Q1IS301/_pdf), [code](current-blank)
+     *Huang, Yipo and Yuan, Quan and Sheng, Xiangfei and Yang, Zhichao and Wu, Haoning and Chen, Pengfei and Yang, Yuzhe and Li, Leida and Lin, Weisi*
 
-    *Yoshia, Abe, and Tatsuya, Daikoku, and Yasuo, Kuniyoshi*
+120. **AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception** arXiv preprint arXiv:2404.09624, 2024. [journal](https://arxiv.org/pdf/2404.09624), [code](https://github.com/yipoh/AesExpert)
 
-120. **Keep Knowledge in Perception: Zero-Shot Image Aesthetic Assessment** ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10447301/), [code](https://github.com/LikeGiver/KZIAA)
+     *Huang, Yipo and Sheng, Xiangfei and Yang, Zhichao and Yuan, Quan and Duan, Zhichao and Chen, Pengfei and Li, Leida and Lin, Weisi and Shi, Guangming*
 
-    *Wang, Guolong and Tan, Yike and Lin, Hangyu and Zhang, Chuchun*
+121. **Coarse-to-fine Image Aesthetics Assessment With Dynamic Attribute Selection** IEEE Transactions on Multimedia, 2024. [journal](https://ieeexplore.ieee.org/abstract/document/10502339/), [code](current-blank)
 
-121. **Emotion-aware hierarchical interaction network for multimodal image aesthetics assessment** Pattern Recognition, 2024. [journal](https://www.sciencedirect.com/science/article/pii/S0031320324003352), [code](current-blank)
+     *Huang, Yipo and Li, Leida and Chen, Pengfei and Wu, Jinjian and Yang, Yuzhe and Li, Yaqian and Shi, Guangming*
 
-    *Zhu, Tong and Li, Leida and Chen, Pengfei and Wu, Jinjian and Yang, Yuzhe and Li, Yaqian*
+122. **UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment** arXiv preprint arXiv:2406.01069, 2024. [journal](https://arxiv.org/pdf/2406.01069), [code](current-blank)
+
+     *Zhou, Hantao and Tang, Longxiang and Yang, Rui and Qin, Guanyi and Zhang, Yan and Hu, Runze and Li, Xiu*
+
+123. **Multi-modal Learnable Queries for Image Aesthetics Assessment** ICME, 2024. [paper](https://arxiv.org/pdf/2405.01326), [code](current-blank)
+
+     *Xiong, Zhiwei and Zhang, Yunfan and Shen, Zhiqi and Ren, Peiran and Yu, Han*
+
+124. **Paintings and Drawings Aesthetics Assessment with Rich Attributes for Various Artistic Categories** IJCAI, 2024. [paper](https://arxiv.org/pdf/2405.02982), [code](current-blank)
+
+     *Jin, Xin and Qiao, Qianqian and Lu, Yi and Gao, Shan and Huang, Heng and Li, Guangdong*
+
+125. **A self-supervised image aesthetic assessment combining masked image modeling and contrastive learning** Journal of Visual Communication and Image Representation, 2024. [journal](https://www.sciencedirect.com/science/article/pii/S1047320324001391), [code](current-blank)
+
+     *Yang, Shuai and Wang, Zibei and Wang, Guangao and Ke, Yongzhen and Qin, Fan and Guo, Jing and Chen, Liming*
+
+126. **Assessing the Aesthetic Evaluation Capabilities of GPT-4 with Vision: Insights from Group and Individual Assessments** 人工知能学会全国大会論文集 第 38 回 (2024), 2024. [paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2Q1IS301/_pdf), [code](current-blank)
+
+     *Yoshia, Abe, and Tatsuya, Daikoku, and Yasuo, Kuniyoshi*
+
+127. **Keep Knowledge in Perception: Zero-Shot Image Aesthetic Assessment** ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10447301/), [code](https://github.com/LikeGiver/KZIAA)
+ 
+     *Wang, Guolong and Tan, Yike and Lin, Hangyu and Zhang, Chuchun*
+
+128. **Emotion-aware hierarchical interaction network for multimodal image aesthetics assessment** Pattern Recognition, 2024. [journal](https://www.sciencedirect.com/science/article/pii/S0031320324003352), [code](current-blank)
+
+     *Zhu, Tong and Li, Leida and Chen, Pengfei and Wu, Jinjian and Yang, Yuzhe and Li, Yaqian*
+
+
 
 ### [Personalized Image Aesthetic Assessment](#content)
 
@@ -682,7 +711,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
 10. **Towards Artistic Image Aesthetics Assessment: a Large-Scale Dataset and a New Method.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.15166), [code](https://github.com/Dreemurr-T/BAID)
 
-    *Yi, Ran; Tian, Haoyuan; Gu, Zhihao; Lai, Yu-Kun; Rosin, Paul L*
+    *Yi, Ran and Tian, Haoyuan and Gu, Zhihao and Lai, Yu-Kun and Rosin, Paul L*
 
 11. **Paintings and Drawings Aesthetics Assessment with Rich Attributes for Various Artistic Categories** IJCAI, 2024. [paper](https://arxiv.org/pdf/2405.02982), [code](current-blank)
 
