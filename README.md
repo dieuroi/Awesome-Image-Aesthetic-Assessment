@@ -10,7 +10,7 @@
 
 We would like to maintain a list of resources that utilize machine learning technologies to solve image aesthetic assessment.
 
-*Maintained by members from UIBE: Lian Liu, Xiangyi Zhang, Yanghao Xing, Yufei Deng, Yifan Yang and Guolong Wang. We also thank all the advisers!*
+*Maintained by members from UIBE: Lian Liu, Xiangyi Zhang, Yanghao Xing, Yufei Deng, Yifan Yang，Zhiqiang Zhang and Guolong Wang. We also thank all the advisers!*
 
 *Thank you for the support of [Thinklab](http://thinklab.sjtu.edu.cn).*
 
@@ -390,122 +390,126 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Zhao, Lin and Shang, Meimei and Gao, Fei and Li, Rongsheng and Huang, Fei and Yu, Jun*
 
-81. **A Hypothesis for the Aesthetic Appreciation in Neural Networks.** arXiv, 2021. [journal](https://arxiv.org/abs/2108.02646)
+81. **Multi-Modality Multi-Attribute Contrastive Pre-Training for Image Aesthetics Computing**IEEE,2020.[journal](https://ieeexplore.ieee.org/document/10746353)
+
+	*Yipo Huang, Leida Li, Pengfei Chen, Haoning Wu, Weisi Lin and Guangming Shi*
+
+82. **A Hypothesis for the Aesthetic Appreciation in Neural Networks.** arXiv, 2021. [journal](https://arxiv.org/abs/2108.02646)
 
     *Cheng, Xu and Wang, Xin and Xue, Haotian and Liang, Zhengyang and Zhang, Quanshi*
 
-82. **Semi-Supervised Adversarial Learning for Attribute-Aware Photo Aesthetic Assessment.** IEEE Transactions on Multimedia, 2021. [journal](https://ieeexplore.ieee.org/abstract/document/9563269)
+83. **Semi-Supervised Adversarial Learning for Attribute-Aware Photo Aesthetic Assessment.** IEEE Transactions on Multimedia, 2021. [journal](https://ieeexplore.ieee.org/abstract/document/9563269)
 
     *Shu, Yangyang and Li, Qian and Liu, Lingqiao and Xu, Guandong*
 
-83. **Hierarchical Layout-Aware Graph Convolutional Network for Unified Aesthetics Assessment.** CVPR, 2021. [paper](https://ieeexplore.ieee.org/document/9577542/), [code](https://github.com/shedy-pub/hlagcn-jittor)
+84. **Hierarchical Layout-Aware Graph Convolutional Network for Unified Aesthetics Assessment.** CVPR, 2021. [paper](https://ieeexplore.ieee.org/document/9577542/), [code](https://github.com/shedy-pub/hlagcn-jittor)
 
     *She, Dongyu and Lai, Yu-Kun and Yi, Gaoxiong and Xu, Kun*
 
-84. **Self-Supervised Multi-Task Pretraining Improves Image Aesthetic Assessment.** CVPR, 2021. [paper](https://ieeexplore.ieee.org/document/9522942/), [code](https://github.com/janpf/self-supervised-multi-task-aesthetic-pretraining)
+85. **Self-Supervised Multi-Task Pretraining Improves Image Aesthetic Assessment.** CVPR, 2021. [paper](https://ieeexplore.ieee.org/document/9522942/), [code](https://github.com/janpf/self-supervised-multi-task-aesthetic-pretraining)
 
     *Pfister, Jan and Kobs, Konstantin and Hotho, Andreas*
 
-85. **Learning Image Aesthetic Assessment from Object-Level Visual Components.** arXiv, 2021. [journal](https://arxiv.org/pdf/2104.01548.pdf)
+86. **Learning Image Aesthetic Assessment from Object-Level Visual Components.** arXiv, 2021. [journal](https://arxiv.org/pdf/2104.01548.pdf)
 
     *Hou, Jingwen and Yang, Sheng and Lin, Weisi and Zhao, Baoquan and Fang, Yuming*
 
-86. **Aesthetic Evaluation and Guidance for Mobile Photography.** ACM Multimedia, 2021. [paper](https://dl.acm.org/doi/10.1145/3474085.3478557)
+87. **Aesthetic Evaluation and Guidance for Mobile Photography.** ACM Multimedia, 2021. [paper](https://dl.acm.org/doi/10.1145/3474085.3478557)
 
     *Lou, Hao and Huang, Heng and Xiao, Chaoen and Jin, Xin*
 
-87. **Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/0132.pdf), [code](https://github.com/woshidandan/TANet)
+88. **Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks.** IJCAI, 2022. [paper](https://www.ijcai.org/proceedings/2022/0132.pdf), [code](https://github.com/woshidandan/TANet)
 
     *He, Shuai and Zhang, Yongchang and Xie, Rui and Jiang, Dongxiang and Ming, Anlong*
 
-88. **Understanding Aesthetics with Language: A Photo Critique Dataset for Aesthetic Assessment.** arXiv, 2022. [journal](https://papers.nips.cc/paper_files/paper/2022/hash/dcd18e50ebca0af89187c6e35dabb584-Abstract-Datasets_and_Benchmarks.html), [code](https://github.com/mediatechnologycenter/aestheval)
+89. **Understanding Aesthetics with Language: A Photo Critique Dataset for Aesthetic Assessment.** arXiv, 2022. [journal](https://papers.nips.cc/paper_files/paper/2022/hash/dcd18e50ebca0af89187c6e35dabb584-Abstract-Datasets_and_Benchmarks.html), [code](https://github.com/mediatechnologycenter/aestheval)
 
     *Nieto, Daniel Vera and Celona, Luigi and Fernandez-Labrador, Clara*
 
-89. **Exploring Metrics to Establish an Optimal Model for Image Aesthetic Assessment and Analysis.** Journal of Imaging, 2022. [journal](https://www.mdpi.com/2313-433X/8/4/85)
+90. **Exploring Metrics to Establish an Optimal Model for Image Aesthetic Assessment and Analysis.** Journal of Imaging, 2022. [journal](https://www.mdpi.com/2313-433X/8/4/85)
 
     *Dai, Ying*
 
-90. **Composition and Style Attributes Guided Image Aesthetic Assessment.** IEEE Transactions on Image Processing, 2022. [journal](https://arxiv.org/abs/2111.04647)
+91. **Composition and Style Attributes Guided Image Aesthetic Assessment.** IEEE Transactions on Image Processing, 2022. [journal](https://arxiv.org/abs/2111.04647)
 
     *Celona, Luigi and Leonardi, Marco and Napoletano, Paolo and Rozza, Alessandro*
 
-91. **Learning Image Aesthetic Subjectivity from Attribute-Aware Relational Reasoning Network.** Pattern Recognition Letters, 2022. [journal](https://www.sciencedirect.com/science/article/pii/S0167865522000514)
+92. **Learning Image Aesthetic Subjectivity from Attribute-Aware Relational Reasoning Network.** Pattern Recognition Letters, 2022. [journal](https://www.sciencedirect.com/science/article/pii/S0167865522000514)
 
     *Zhu, Hancheng and Zhou, Yong and Yao, Rui and Wang, Guangcheng and Yang, Yuzhe*
 
-92. **Theme-Aware Semi-Supervised Image Aesthetic Quality Assessment.** Mathematics, 2022. [journal](https://www.mdpi.com/2227-7390/10/15/2609)
+93. **Theme-Aware Semi-Supervised Image Aesthetic Quality Assessment.** Mathematics, 2022. [journal](https://www.mdpi.com/2227-7390/10/15/2609)
 
     *Zhang, Xiaodan and Zhang, Xun and Xiao, Yuan and Liu, Gang*
 
-93. **Privileged Multi-Task Learning for Attribute-Aware Aesthetic Assessment.** Pattern Recognition, 2022. [journal](https://www.sciencedirect.com/science/article/pii/S0031320322004022)
+94. **Privileged Multi-Task Learning for Attribute-Aware Aesthetic Assessment.** Pattern Recognition, 2022. [journal](https://www.sciencedirect.com/science/article/pii/S0031320322004022)
 
     *Shu, Yangyang and Li, Qian and Liu, Lingqiao and Xu, Guandong*
 
-94. **A Deep Drift-Diffusion Model for Image Aesthetic Score Distribution Prediction.** ICME Workshops, 2022. [paper](https://arxiv.org/abs/2010.07661)
+95. **A Deep Drift-Diffusion Model for Image Aesthetic Score Distribution Prediction.** ICME Workshops, 2022. [paper](https://arxiv.org/abs/2010.07661)
 
     *Jin, Xin and Li, Xinning and Huang, Heng and Li, Xiaodong and Xiao, Chaoen and Li, Xiqiao*
 
-95. **Pseudo-Labeling and Meta Reweighting Learning for Image Aesthetic Quality Assessment.** IEEE Transactions on Intelligent Transportation Systems, 2022. [journal](https://ieeexplore.ieee.org/document/9905417/)
+96. **Pseudo-Labeling and Meta Reweighting Learning for Image Aesthetic Quality Assessment.** IEEE Transactions on Intelligent Transportation Systems, 2022. [journal](https://ieeexplore.ieee.org/document/9905417/)
 
     *Jin, Xin and Lou, Hao and Huang, Heng and Li, Xinning and Li, Xiaodong and Cui, Shuai and Zhang, Xiaokun and Li, Xiqiao*
 
-96. **Computational Analysis of Correlations Between Image Aesthetic and Image Naturalness in the Relation with Image Quality.** Journal of Imaging, 2022. [journal](https://www.mdpi.com/2313-433X/8/6/166)
+97. **Computational Analysis of Correlations Between Image Aesthetic and Image Naturalness in the Relation with Image Quality.** Journal of Imaging, 2022. [journal](https://www.mdpi.com/2313-433X/8/6/166)
 
     *Le, Quyet-Tien and Ladret, Patricia and Nguyen, Huu-Tuan and Caplier, Alice*
 
-97. **Metamp: Metalearning-Based Multipatch Image Aesthetics Assessment.** IEEE Transactions on Cybernetics, 2022. [journal](https://ieeexplore.ieee.org/document/9777255/)
+98. **Metamp: Metalearning-Based Multipatch Image Aesthetics Assessment.** IEEE Transactions on Cybernetics, 2022. [journal](https://ieeexplore.ieee.org/document/9777255/)
 
     *Yang, Jiachen and Zhou, Yanshuang and Zhao, Yang and Lu, Wen and Gao, Xinbo*
 
-98. **Interpretable Aesthetic Analysis Model for Intelligent Photography Guidance Systems.** ACM IUI, 2022. [paper](https://arxiv.org/abs/2110.04677)
+99. **Interpretable Aesthetic Analysis Model for Intelligent Photography Guidance Systems.** ACM IUI, 2022. [paper](https://arxiv.org/abs/2110.04677)
 
     *Wu, Xiaoran*
 
-99. **Distilling Knowledge from Object Classification to Aesthetics Assessment.** IEEE Transactions on Circuits and Systems for Video Technology, 2022. [journal](https://arxiv.org/abs/2206.00809)
+100. **Distilling Knowledge from Object Classification to Aesthetics Assessment.** IEEE Transactions on Circuits and Systems for Video Technology, 2022. [journal](https://arxiv.org/abs/2206.00809)
 
     *Hou, Jingwen and Ding, Henghui and Lin, Weisi and Liu, Weide and Fang, Yuming*
 
-100. **Theme-Aware Aesthetic Distribution Prediction with Full-Resolution Photographs.** IEEE Transactions on Neural Networks and Learning Systems, 2022. [journal](https://arxiv.org/abs/1908.01308)
+101. **Theme-Aware Aesthetic Distribution Prediction with Full-Resolution Photographs.** IEEE Transactions on Neural Networks and Learning Systems, 2022. [journal](https://arxiv.org/abs/1908.01308)
 
      *Jia, Gengyun and Li, Peipei and He, Ran*
 
-101. **BeauVis: A Validated Scale for Measuring the Aesthetic Pleasure of Visual Representations.** IEEE Transactions on Visualization and Computer Graphics, 2022. [journal](http://export.arxiv.org/abs/2207.14147v2)
+102. **BeauVis: A Validated Scale for Measuring the Aesthetic Pleasure of Visual Representations.** IEEE Transactions on Visualization and Computer Graphics, 2022. [journal](http://export.arxiv.org/abs/2207.14147v2)
 
      *He, Tingying and Isenberg, Petra and Dachselt, Raimund and Isenberg, Tobias*
 
-102. **Compression Ensembles Quantify Aesthetic Complexity and the Evolution of Visual Art.** arXiv, 2022. [journal](https://arxiv.org/abs/2205.10271)
+103. **Compression Ensembles Quantify Aesthetic Complexity and the Evolution of Visual Art.** arXiv, 2022. [journal](https://arxiv.org/abs/2205.10271)
 
      *Karjus, Andres and Solà, Mar Canet and Ohm, Tillmann and Ahnert, Sebastian E and Schich, Maximilian*
 
-103. **Clip Knows Image Aesthetics.** Frontiers in Artificial Intelligence, 2022. [journal](https://www.frontiersin.org/articles/10.3389/frai.2022.976235/full)
+104. **Clip Knows Image Aesthetics.** Frontiers in Artificial Intelligence, 2022. [journal](https://www.frontiersin.org/articles/10.3389/frai.2022.976235/full)
 
      *Hentschel, Simon and Kobs, Konstantin and Hotho, Andreas*
 
-104. **Aesthetic Attribute Assessment of Images Numerically on Mixed Multi-attribute Datasets.** ACM Transactions on Multimedia Computing, Communications, and Applications, 2022. [journal](https://doi.org/10.1145/3547144), [code](https://github.com/BestiVictory/Aesthetic-Attribute-Assessment-Model/tree/master)
+105. **Aesthetic Attribute Assessment of Images Numerically on Mixed Multi-attribute Datasets.** ACM Transactions on Multimedia Computing, Communications, and Applications, 2022. [journal](https://doi.org/10.1145/3547144), [code](https://github.com/BestiVictory/Aesthetic-Attribute-Assessment-Model/tree/master)
 
      *Jin, Xin and Li, Xinning and Lou, Hao and Fan, Chenyu and Deng, Qiang and Xiao, Chaoen and Cui, Shuai and Singh, Amit Kumar*
 
-105. **MaxViT: Multi-Axis Vision Transformer.** ECCV, 2022. [paper](https://arxiv.org/abs/2204.01697), [code](https://github.com/google-research/maxvit)
+106. **MaxViT: Multi-Axis Vision Transformer.** ECCV, 2022. [paper](https://arxiv.org/abs/2204.01697), [code](https://github.com/google-research/maxvit)
 
      *Tu, Zhengzhong and Talebi, Hossein and Zhang, Han and Yang, Feng and Milanfar, Peyman and Bovik, Alan and Li, Yinxiao*
 
-106. **Aesthetically Relevant Image Captioning.** AAAI, 2023. [paper](https://arxiv.org/abs/2211.15378), [code](https://github.com/PengZai/ARIC)
+107. **Aesthetically Relevant Image Captioning.** AAAI, 2023. [paper](https://arxiv.org/abs/2211.15378), [code](https://github.com/PengZai/ARIC)
 
      *Zhong, Zhipeng and Zhou, Fei and Qiu, Guoping*
 
-107. **Neural Mechanisms Underlying the Hierarchical Construction of Perceived Aesthetic Value.** Nature Communications, 2023. [journal](https://www.nature.com/articles/s41467-022-35654-y)
+108. **Neural Mechanisms Underlying the Hierarchical Construction of Perceived Aesthetic Value.** Nature Communications, 2023. [journal](https://www.nature.com/articles/s41467-022-35654-y)
 
      *Iigaya, Kiyohito and Yi, Sanghyun and Wahle, Iman A and Tanwisuth, Sandy and Cross, Logan and Logan and O’Doherty, John P*
 
-108. **VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining.** , 2023. [journal](https://arxiv.org/abs/2303.14302)
+109. **VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining.** , 2023. [journal](https://arxiv.org/abs/2303.14302)
 
      *Ke, Junjie and Ye, Keren and Yu, Jiahui and Wu, Yonghui and Milanfar, Peyman and Yang, Feng*
 
-109. **Towards Artistic Image Aesthetics Assessment: a Large-Scale Dataset and a New Method.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.15166), [code](https://github.com/Dreemurr-T/BAID)
+110. **Towards Artistic Image Aesthetics Assessment: a Large-Scale Dataset and a New Method.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.15166), [code](https://github.com/Dreemurr-T/BAID)
      *Yi, Ran; Tian, Haoyuan; Gu, Zhihao; Lai, Yu-Kun; Rosin, Paul L*
 
-110.   **AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_AesPA-Net_Aesthetic_Pattern-Aware_Style_Transfer_Networks_ICCV_2023_paper.pdf)
+111.   **AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_AesPA-Net_Aesthetic_Pattern-Aware_Style_Transfer_Networks_ICCV_2023_paper.pdf)
 
      *Hong, Kibeom and Jeon, Seogkyu and Lee, Junsoo and Ahn, Namhyuk and Kim, Kunhee and Lee, Pilhyeon and Kim, Daesik and Uh, Youngjung and Byun, Hyeran*
 
@@ -581,7 +585,9 @@ We would like to maintain a list of resources that utilize machine learning tech
 
      *Zhu, Tong and Li, Leida and Chen, Pengfei and Wu, Jinjian and Yang, Yuzhe and Li, Yaqian*
 
+129.**UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark**arXiv,2024.[paper](https://arxiv.org/abs/2404.09619)
 
+*Zhaokun Zhou, Qiulin Wang, Bin Lin, Yiwei Su, Rui Chen, Xin Tao, Amin Zheng, Li Yuan, Pengfei Wan, Di Zhang*
 
 ### [Personalized Image Aesthetic Assessment](#content)
 
@@ -641,9 +647,15 @@ We would like to maintain a list of resources that utilize machine learning tech
 
     *Li, Yaohui and Yang, Yuzhe and Li, Huaxiong and Chen, Haoxing and Xu, Liwu and Li, Leida and Li, Yaqian and Guo, Yandong*
 
-15. **Personalized Image Aesthetics Assessment based on Graph Neural Network and Collaborative Filtering** Knowledge-Based Systems, 2024. [journal](https://www.sciencedirect.com/science/article/pii/S0950705124003848), [code](current-blank)
+15. **Multi-Level Transitional Contrast Learning for Personalized Image Aesthetics Assessment** IEEE，2022.[journal](https://ieeexplore.ieee.org/abstract/document/10168279),[code](https://github.com/yzc-ippl/MTCL)
+
+16. **Personalized Image Aesthetics Assessment based on Graph Neural Network and Collaborative Filtering** Knowledge-Based Systems, 2024. [journal](https://www.sciencedirect.com/science/article/pii/S0950705124003848), [code](current-blank)
 
     *Shi, Huiying and Guo, Jing and Ke, Yongzhen and Wang, Kai and Yang, Shuai and Qin, Fan and Chen, Liming*
+
+17. **Rethinking Personalized Aesthetics Assessment: Employing Physique Aesthetics Assessment as An Exemplification** IEEE，2025.[journal](https://ieeexplore.ieee.org/document/11094927),[code](https://github.com/woshidandan/Rethinking-Personalized-Aesthetics-Assessment)
+
+	*Haobin Zhong Shuai He Anlong Ming, Huadong Ma Beijing University of Posts and Telecommunications*
 
 ### [Aesthetic Critique](#content)
 
